@@ -1,0 +1,14 @@
+.buy-button{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.top-banner{
+    margin-bottom: 100px;
+}
+.see-all{
+    font-size: 14px;
+    color: orange;
+}

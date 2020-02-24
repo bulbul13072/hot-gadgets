@@ -5,10 +5,15 @@
     padding: 9px 25px;
     cursor: pointer;
 }
-.top-banner{
-    margin-bottom: 100px;
+.container{
+    margin-bottom: 60px;
 }
 .see-all{
-    font-size: 14px;
+    font-size: 18px;
     color: orange;
+}
+.card{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightgray;
 }

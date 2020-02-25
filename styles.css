@@ -17,3 +17,15 @@
     border-radius: 5px;
     box-shadow: 5px 5px 10px lightgray;
 } 
+.cat-3{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.underline-style{
+    height: 10px;
+    width: 100px;
+    margin-bottom: 100px;
+    background-image: linear-gradient(45deg, rgb(247, 183, 9), rgb(255, 72, 0));
+    border-radius: 5px;
+}
